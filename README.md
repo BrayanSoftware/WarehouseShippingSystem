@@ -26,4 +26,4 @@ Any               £ 10.00 + £10 x (weight in kg)   1 day
 
 4. Another shipping company, BulkPack, sends any size parcel for £25, arriving in 10 days. Add this shipping company to your system and show that the existing methods such as parcel dispatch and reporting work with this company.
 
-5. Extend the system so the dispatch team can print out a list of parcels to be sent with each shipping company, including the delivery address and postage cost.
+5. Extend the system so the dispatch team can print out a list of parcels to be sent with each shipping company, including the delivery address and postage cost.f
