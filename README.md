@@ -1,6 +1,6 @@
 Warehouse Shipping System: Assignment
 
-1.	Online retailers such as Amazon use multiple shipping companies (such as Royal Mail, DHL) depending on customer requirements (such as speed and price). Separate the details of the package to be shipped from the shipping service itself via a defined interface. The system should handle the dispatch of packages of various weights via different shipping companies. The shipping cost of a package is defined by its weight. It should be possible to check the delivery cost of a particular package, and to send a package to the shipping company selected by the user based on the shipping cost and time. Use the tables in the appendix to calculate delivery costs for the two shipping companies.
+Online retailers such as Amazon use multiple shipping companies (such as Royal Mail, DHL) depending on customer requirements (such as speed and price). Separate the details of the package to be shipped from the shipping service itself via a defined interface. The system should handle the dispatch of packages of various weights via different shipping companies. The shipping cost of a package is defined by its weight. It should be possible to check the delivery cost of a particular package, and to send a package to the shipping company selected by the user based on the shipping cost and time. Use the tables in the appendix to calculate delivery costs for the two shipping companies.
 
 Appendix: Tables of Delivery Costs
 
@@ -26,4 +26,4 @@ Any               £ 10.00 + £10 x (weight in kg)   1 day
 
 4. Another shipping company, BulkPack, sends any size parcel for £25, arriving in 10 days. Add this shipping company to your system and show that the existing methods such as parcel dispatch and reporting work with this company.
 
-5. Extend the system so the dispatch team can print out a list of parcels to be sent with each shipping company, including the delivery address and postage cost.f
+5. Extend the system so the dispatch team can print out a list of parcels to be sent with each shipping company, including the delivery address and postage cost.
